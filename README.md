@@ -30,3 +30,6 @@ The project employs Convolutional Neural Networks (CNNs) and transfer learning t
 The proposed system demonstrates promising results in detecting Parkinson's disease based on sketching behavior. The VGG model achieves an accuracy of 86.67% specifically when analyzing spiral sketches. The project validates the effectiveness of deep learning algorithms and transfer learning in Parkinson's disease detection.
 
 Overall, this project contributes to the development of a clinical decision support system for Parkinson's disease diagnosis based on sketching behavior. The achieved results showcase the potential of using deep learning algorithms and image analysis techniques for early detection and intervention in Parkinson's disease.
+
+For more details, please refer to the full report in the Report.pdf file.
+
